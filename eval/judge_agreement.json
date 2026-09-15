@@ -1,0 +1,6 @@
+{
+  "n": 25,
+  "judge_mode": "heuristic_fallback",
+  "cohens_kappa_good_reply_threshold": "undefined (insufficient class variance)",
+  "mean_absolute_error_1to5_scale": 1.48
+}

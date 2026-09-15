@@ -1,0 +1,5 @@
+,intent_accuracy,intent_macro_f1,escalation_precision,escalation_recall,escalation_f1,unsafe_auto_handle_rate,mean_reply_quality_composite_1to5,pct_auto_handled_replies_scoring_lt3
+trivial,0.2412,0.0432,0.0,0.0,0.0,1.0,,
+simple,0.6131,0.5803,1.0,0.5,0.6667,0.5,,
+tfidf_trainable_reference,0.9648,0.857,,,,,,
+system,0.8945,0.8098,0.0699,1.0,0.1307,0.0,3.05,14.3
